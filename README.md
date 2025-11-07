@@ -1,4 +1,3 @@
-# Walmart_Analysis
 # 🛍️ Retail Sales Data Analysis — Walmart Case Study
 
 ## 📊 Project Overview
@@ -39,7 +38,17 @@ The analysis leverages **Python** for data processing and **MySQL** for database
 
 ---
 
-## 📈 Key Features
+## 📈 Key Analysis Areas
+
+- **Sales Performance:** Total revenue, sales trends over time, and peak selling periods.  
+- **Product Analysis:** Identification of best-selling and slow-moving products.  
+- **Customer Insights:** Segmentation based on purchasing behavior and preferences.  
+- **Branch Performance:** Geographical analysis of sales across different locations.  
+- **Temporal Patterns:** Analysis of sales by hour, day, and month to inform staffing and promotions.
+
+---
+
+## 📊 Key Features
 - Clean and preprocess raw sales data for analytics readiness  
 - Execute complex SQL queries for data aggregation and joins  
 - Perform statistical analysis and trend detection using Python  
@@ -53,27 +62,19 @@ The analysis leverages **Python** for data processing and **MySQL** for database
 ### 📊 Excel Dashboard
 A visual summary of sales performance, product categories, and revenue distribution using Excel pivot charts and slicers.
 
-![Excel Dashboard](images/excel_dashboard.png)
+![Excel Dashboard](https://github.com/user-attachments/assets/a7c2b466-7102-4a6e-818a-aa73ffeb1ece)
 
 ---
 
 ### 📉 Power BI Dashboard
 An interactive Power BI dashboard displaying key metrics such as total revenue, profit margins, and regional sales trends.
 
-![Power BI Dashboard](<p align="center">
-  <img src="images/excel_dashboard.png" alt="Excel Dashboard" width="45%" style="margin-right: 5%;" />
-  <img src="https://github.com/user-attachments/assets/7f11a1db-2022-4fbe-a989-aaa4417af6d2" alt="Power BI Dashboard" width="45%" />
-</p>
-
-<p align="center">
-  <b>Left:</b> Excel Dashboard &nbsp;&nbsp;|&nbsp;&nbsp; <b>Right:</b> Power BI Dashboard
-</p>)
-
+![Power BI Dashboard](https://github.com/user-attachments/assets/7f11a1db-2022-4fbe-a989-aaa4417af6d2)
 
 ---
 
 ## 📦 Future Enhancements
-- Integration with Power BI or Tableau for automated updates  
+- Integration with BI tools like Power BI or Tableau for automated updates  
 - Implementation of predictive analytics using Machine Learning  
 - Development of a web dashboard for real-time analytics  
 
@@ -90,3 +91,4 @@ This project demonstrates how **Python** and **MySQL** can work together to buil
 📧 [sohamlone06@gmail.com](mailto:sohamlone06@gmail.com)
 
 ---
+
