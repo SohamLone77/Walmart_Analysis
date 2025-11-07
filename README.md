@@ -60,7 +60,14 @@ A visual summary of sales performance, product categories, and revenue distribut
 ### 📉 Power BI Dashboard
 An interactive Power BI dashboard displaying key metrics such as total revenue, profit margins, and regional sales trends.
 
-![Power BI Dashboard](<img width="1305" height="731" alt="Image" src="https://github.com/user-attachments/assets/7f11a1db-2022-4fbe-a989-aaa4417af6d2" />)
+![Power BI Dashboard](<p align="center">
+  <img src="images/excel_dashboard.png" alt="Excel Dashboard" width="45%" style="margin-right: 5%;" />
+  <img src="https://github.com/user-attachments/assets/7f11a1db-2022-4fbe-a989-aaa4417af6d2" alt="Power BI Dashboard" width="45%" />
+</p>
+
+<p align="center">
+  <b>Left:</b> Excel Dashboard &nbsp;&nbsp;|&nbsp;&nbsp; <b>Right:</b> Power BI Dashboard
+</p>)
 
 
 ---
