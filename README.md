@@ -60,7 +60,7 @@ A visual summary of sales performance, product categories, and revenue distribut
 ### 📉 Power BI Dashboard
 An interactive Power BI dashboard displaying key metrics such as total revenue, profit margins, and regional sales trends.
 
-![Power BI Dashboard](Walmart_Analysis/blob/main/Dashboard_PowerBI.png)
+![Power BI Dashboard](<img width="1305" height="731" alt="Image" src="https://github.com/user-attachments/assets/7f11a1db-2022-4fbe-a989-aaa4417af6d2" />)
 
 
 ---
